@@ -1,0 +1,32 @@
+package hackerRank.algorithm.implementation;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
+
+public class CuttheSticks {
+
+	public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        Scanner sc=new Scanner(System.in);
+        int noofSticks=sc.nextInt();
+        //int length[]=new int[noofSticks];
+        ArrayList<Integer> length=new ArrayList<Integer>();
+        for(int i=0;i<noofSticks;i++){
+            length.add(i,sc.nextInt());
+        }
+        int lengthofcut=0,sticklen=0;
+        int countSticks=0;
+        for(int i=0;i<length.size();i++){
+        	lengthofcut=Collections.min(length);
+        	sticklen=length.get(i)-lengthofcut;
+        	if(sticklen!=0){
+        		length.add(i, sticklen);
+        		countSticks++;
+        	}
+        	System.out.println(countSticks);
+        }
+            
+        }
+
+}

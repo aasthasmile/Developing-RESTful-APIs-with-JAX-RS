@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+<fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+<fullyQualifiedTypeName name="javax.ws.rs.POST"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Consumes"/>
+<fullyQualifiedTypeName name="javax.ws.rs.PUT"/>
+<fullyQualifiedTypeName name="javax.ws.rs.DELETE"/>
+<fullyQualifiedTypeName name="org.aastha.java.messenger.database.DatabaseClass"/>
+<fullyQualifiedTypeName name="org.aastha.java.messenger.service.ProfileService"/>
+<fullyQualifiedTypeName name="org.aastha.java.messenger.model.Profile"/>
+<fullyQualifiedTypeName name="java.net.SocketOption"/>
+<fullyQualifiedTypeName name="javax.ws.rs.QueryParam"/>
+<fullyQualifiedTypeName name="org.aastha.java.messenger.service.MessageService"/>
+<fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+<fullyQualifiedTypeName name="javax.ws.rs.MatrixParam"/>
+<fullyQualifiedTypeName name="javax.ws.rs.HeaderParam"/>
+<fullyQualifiedTypeName name="javax.ws.rs.CookieParam"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Context"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.UriInfo"/>
+<fullyQualifiedTypeName name="org.aastha.java.messenger.resources.MessageFilterBean"/>
+<fullyQualifiedTypeName name="javax.ws.rs.BeanParam"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response.Status"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+</qualifiedTypeNameHistroy>
